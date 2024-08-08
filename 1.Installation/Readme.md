@@ -44,7 +44,14 @@ C:\MachineLearning\Anaconda3\condabin>conda create --name pytorch
 Collecting package metadata (current_repodata.json): done
 Solving environment: done
 
-step 4(through pytorch):
+
+(OR) through anaconda navigator
+
+
+![image](https://github.com/user-attachments/assets/8ac87c05-9d30-49b8-b65a-55c6960cd9f6)
+
+(OR)
+step 3.1(through pycharm):
 =============================
 
 
