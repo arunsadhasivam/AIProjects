@@ -37,8 +37,8 @@ C:\MachineLearning\Anaconda3\condabin>conda env list
 NOTE:
 -----
 
-never work on base , create a environment for specific requirement like for e.g i create env pytorch to
-work on pytorch project
+never work on base , create a environment for specific requirement like for e.g i created virtual environment named pytorch to
+work on pytorch project C:\MachineLearning\Workspace\PytorchProj)
 
 C:\MachineLearning\Anaconda3\condabin>conda create --name pytorch
 Collecting package metadata (current_repodata.json): done
