@@ -58,11 +58,16 @@ step 3.1(through pycharm):
 ![image](https://github.com/user-attachments/assets/cb5f5c24-1cc5-442d-9afb-1a0e60dc9819)
 
 
-    **C:\MachineLearning\pytorchvenv** - is like library folder in java. you can specify whether reuse 
-    this virutal env for other project. so that no need to install again and again.
-    you can install pip install all packages and resuse in other project by just giving this environment
-    
-    **C:\MachineLearning\Workspace\PytorchProj **- path where pytorch PytorchProj  saved
+   C:\MachineLearning\pytorchvenv:
+   ==============================
+   
+   is like library folder in java. you can specify whether reuse 
+   this virutal env for other project. so that no need to install again and again.
+   you can install pip install all packages and resuse in other project by just giving this environment
+   
+   C:\MachineLearning\Workspace\PytorchProj:
+   =========================================
+   path where pytorch PytorchProj  saved
 
 Step 5:
 =======
