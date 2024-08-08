@@ -67,7 +67,7 @@ step 3.1(through pycharm):
    
    C:\MachineLearning\Workspace\PytorchProj:
    =========================================
-   path where pytorch PytorchProj  saved
+   path where  PytorchProj  saved
 
 Step 5:
 =======
@@ -87,3 +87,40 @@ NOTE:
 =====
 
 ./activate.ps1 because (powershell)
+
+after activation
+![image](https://github.com/user-attachments/assets/17ee90ed-4077-4f1f-92d8-a29199c591c6)
+
+
+
+Step 7(intall packages needed for pytorch project):
+=====================================================
+
+go to pytorch.org and choose needed modules 
+
+![image](https://github.com/user-attachments/assets/c6bf8f7c-e9ad-408e-9ea0-e971a9a7c18f)
+
+Before update or installing pytorch in virutal env
+==================================================
+
+![image](https://github.com/user-attachments/assets/9448a011-d9d8-47bf-b01f-6893df7dbf04)
+
+
+1)set env path = anaconda bin folder 
+2)go to pytorch virtual environment folder and then install the command above from pytorch.org(spring io like )
+  ![image](https://github.com/user-attachments/assets/fefd156c-6654-499c-b551-232fc81ac27d)
+
+After Update:
+=============
+
+
+ 
+To Deactivate env:
+==================
+
+
+![image](https://github.com/user-attachments/assets/6fd5369a-84ce-4789-a40c-92b8e63ec845)
+
+As you can see (pytorchenv) been removed.
+
+
