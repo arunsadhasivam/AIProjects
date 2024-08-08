@@ -21,3 +21,27 @@ install pycharm community edition.
  
  https://www.jetbrains.com/pycharm/download/other.html
 
+Step 3:
+=======
+
+create virtual env.
+
+to list environment:
+=====================
+C:\MachineLearning\Anaconda3\condabin>conda env list
+      # conda environments:
+      #
+      base                     C:\MachineLearning\Anaconda3
+
+
+NOTE:
+-----
+
+never work on base , create a environment for specific requirement like for e.g i create env pytorch to
+work on pytorch project
+
+C:\MachineLearning\Anaconda3\condabin>conda create --name pytorch
+Collecting package metadata (current_repodata.json): done
+Solving environment: done
+
+
