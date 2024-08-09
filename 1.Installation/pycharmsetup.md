@@ -6,10 +6,9 @@ choose > virtual Environment > conda Executable > C:\Anaconda3\condabin\conda.ba
 
 you can now run all pytorch related methods.
 
-as you can see 
+as you can see C:\Anaconda3\envs\pytorch is in use with classpath of python
 
-![image](https://github.com/user-attachments/assets/01fba647-71ac-43e3-807e-b0ffc0711109)
-
+ ![Uploading image.png…]()
 
 
 NOTE:
@@ -17,7 +16,8 @@ NOTE:
 
 Pycharm > File > Settings > 
 
-![image](https://github.com/user-attachments/assets/62d6d3dc-449c-4fb8-8a37-94e9f308b757)
+ ![image](https://github.com/user-attachments/assets/25fb5f1b-2d9f-4c3e-a384-54c8dafd39ce)
+
 
 
 ![image](https://github.com/user-attachments/assets/9ba1e84d-606c-4830-a397-4fd52634f64e)
