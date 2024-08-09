@@ -5,3 +5,4 @@ go to pycharm > customize > AllSettings > python Interpreter > Add Interpreter >
 
 choose > virtual Environment > conda Executable > C:\Anaconda3\condabin\conda.bat- > click load Executable > use existing Environment > pytorch
 
+
