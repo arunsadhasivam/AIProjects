@@ -8,7 +8,7 @@ you can now run all pytorch related methods.
 
 as you can see C:\Anaconda3\envs\pytorch is in use with classpath of python
 
- ![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/8c0faeab-3ec1-468b-aca4-db444fba30cc)
 
 
 NOTE:
