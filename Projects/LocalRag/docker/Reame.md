@@ -27,7 +27,8 @@ COPY . /app/
 
 
     This copies all files from your build context (the directory where you run docker build) into the /app directory in the container.
-    Example: If you run docker build from C:\workspace\original-rag-master, all files in that folder (like app.py, requirements.txt, etc.) get copied to /app inside the container.
+    Example: If you run docker build from C:\workspace\original-rag-master, all files in that folder (like app.py, requirements.txt, etc.)
+    get copied to /app inside the container.
 
 RUN pip3 install -r requirements.txt
 
