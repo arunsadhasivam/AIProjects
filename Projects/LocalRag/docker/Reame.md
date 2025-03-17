@@ -33,7 +33,8 @@ COPY . /app/
 RUN pip3 install -r requirements.txt
 
     This installs Python packages listed in your requirements.txt file.
-    Example: If your requirements.txt contains tensorflow==2.9.0, this would be like running pip3 install tensorflow==2.9.0 inside the container.
+    Example: If your requirements.txt contains tensorflow==2.9.0, this would be like 
+    running pip3 install tensorflow==2.9.0 inside the container.
 
 
 ENV CUDA_VISIBLE_DEVICES=0
